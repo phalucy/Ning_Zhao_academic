@@ -18,7 +18,7 @@ organizations:
   url: "https://www.jamstec.go.jp/dcop/e/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include short-term air-sea interactions, interaction between extratropical cyclones and marginal seas, the Madden-Julian Oscillation, and the diurnal cycles in Tropics.
 
 interests:
 - Air-Sea Interactions
@@ -69,4 +69,4 @@ user_groups:
 - Visitors
 ---
 
-I am a research at Japan Agency for Marine-Earth Science and Technology (JAMSTEC).
+I'm working at DCOP, RIGC in JAMSTEC as a researcher. I'm interested in the short-term air-sea interactions, including the processes between extra-tropical cyclones and marginal seas, the interactions between the upper ocean and the diurnal cycle within the Maritime Continent, and my recent research interests is the life cycle of the atmospheric rivers (AR).
