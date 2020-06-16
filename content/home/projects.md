@@ -26,8 +26,8 @@ subtitle = ""
      tag = "*"
   
    [[content.filter_button]]
-     name = "Kakenhi"
-     tag = "Kakenhi"
+     name = "科研費"
+     tag = "kakenhi"
   
    [[content.filter_button]]
      name = "Other"
