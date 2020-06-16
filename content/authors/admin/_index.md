@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Research
+role: Researcher
 
 # Organizations/Affiliations
 organizations:
-- name:Dynamic Coupling of Ocean-Atmosphere-Land Research Program (DCOP), Research Institute for Global Change (RIGC),  Japan Agency for Marine-Earth Science and Technology (JAMSTEC)
+- name: DCOP, RIGC, Japan Agency for Marine-Earth Science and Technology
   url: "https://www.jamstec.go.jp/dcop/e/"
 
 # Short bio (displayed in user profile at end of posts)
@@ -55,9 +55,9 @@ social:
   link: https://github.com/phalucy
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
