@@ -24,7 +24,7 @@ all_day: false
 publishDate: "2020-06-16T00:00:00Z"
 
 authors: [Ning Zhao, Nasuno Tomoe]
-tags: []
+tags: [poster]
 
 # Is this a featured talk? (true/false)
 featured: true
