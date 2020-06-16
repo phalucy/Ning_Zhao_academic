@@ -1,6 +1,6 @@
 ---
 title: How does the air-sea coupling frequency affect convection during the MJO passage?
-event: Ocean Sciences Meeting
+event: Ocean Sciences Meeting 2020
 event_url: https://www.agu.org/Ocean-Sciences-Meeting
 
 location: San Diego Convection Center
@@ -16,8 +16,8 @@ abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2020-02-16T13:00:00Z"
-date_end: "2030-02-21T15:00:00Z"
+date: "2020-02-16"
+date_end: "2020-02-21"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -48,7 +48,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: ""
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
