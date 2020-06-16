@@ -25,7 +25,9 @@ date_format = "Jan 2006"
   date_start = "2019-04-01"
   date_end = ""
   description = """
+  """
   Group Leader: Dr. Kunio Yoneyama
+  """
   Research Theme includes:
   
   * Air-sea interactions in Tropical regions
