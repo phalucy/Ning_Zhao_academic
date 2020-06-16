@@ -33,6 +33,19 @@ subtitle = ""
     exclude_past = false
     exclude_future = false
    
+  filter_default = 0
+  
+   [[content.filter_button]]
+     name = "All"
+     tag = "*"
+  
+   [[content.filter_button]]
+     name = "Poster"
+     tag = "poster"
+  
+   [[content.filter_button]]
+     name = "Oral"
+     tag = "oral"
 
    
 [design]
