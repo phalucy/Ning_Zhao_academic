@@ -64,7 +64,7 @@ date_format = "Jan 2006"
   * Sub-weekly scale interactions between extratropical cyclones and the Sea of Japan based on numerical experiments
   """
  
- [[experience]]
+[[experience]]
   title = "Special Research Student"
   company = "Nagasaki University"
   company_url = "http://www.nagasaki-u.ac.jp/"
@@ -79,7 +79,7 @@ date_format = "Jan 2006"
   * Seasonal variation of the Subpoloar Front in the Sea of Japan and its mechanisms
   """
   
- [[experience]]
+[[experience]]
   title = "Graduate Research Assistant"
   company = "Shanghai Ocean University"
   company_url = "https://www.shou.edu.cn/"
@@ -93,8 +93,8 @@ date_format = "Jan 2006"
   
   * Reconstruction of three-dimensional sea water temperature structures in the Northwestern Pacific using Argo and satellite-based datasets
   """
-  
-   [[experience]]
+
+[[experience]]
   title = "Undergraduate Research Assistant"
   company = "Shanghai Ocean University"
   company_url = "https://www.shou.edu.cn/"
@@ -107,5 +107,5 @@ date_format = "Jan 2006"
   Research Theme includes:
   
   * Bio-energy flow of the ecosystems in the East China Sea based on the ’Ecopath’ Model
-
+  """
 +++
