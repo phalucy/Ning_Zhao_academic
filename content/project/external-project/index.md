@@ -1,14 +1,14 @@
 ---
-title: External Project
-summary: An example of linking directly to an external project website using `external_link`.
+title: Years of the Maritime Continent
+summary: Recent Project of our group.
 tags:
-- Demo
-date: "2016-04-27T00:00:00Z"
+- other
+date: "2014-07-14T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: http://example.org
+external_link: http://www.jamstec.go.jp/ymc/index.html
 
 image:
-  caption: Photo by Toa Heftiba on Unsplash
+  caption: YMC
   focal_point: Smart
 ---
