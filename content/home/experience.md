@@ -36,11 +36,76 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Post-doctoral Fellow"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  company = "Research Institute for Applied Mechanics, Kyushu University"
+  company_url = "https://www.riam.kyushu-u.ac.jp/"
+  location = "Kasuga, Fukuoka, Japan"
+  date_start = "2017-10-01"
+  date_end = "2019-03-31"
+  description = """
+  Lab Head: Prof. Naoki Hirose
+  
+  Research Theme:
+  
+  * The atmospheric responses to a diurnally-varying SST
+  """
+  
+[[experience]]
+  title = "Research Assistant"
+  company = "Kyushu University"
+  company_url = "https://www.kyushu-u.ac.jp/"
+  location = "Yokosuka, Kanagawa, Japan"
+  date_start = "2014-10-01"
+  date_end = "2017-09-30"
+  description = """
+  Lab Head: Prof. Atsuhiko Isobe
+  
+  Research Theme includes:
+  
+  * Sub-weekly scale interactions between extratropical cyclones and the Sea of Japan based on numerical experiments
+  """
+ 
+ [[experience]]
+  title = "Special Research Student"
+  company = "Nagasaki University"
+  company_url = "http://www.nagasaki-u.ac.jp/"
+  location = "Ngasaki, Nagasaki, Japan"
+  date_start = "2012-03-01"
+  date_end = "2013-02-28"
+  description = """
+  Lab Head: Prof. Atsuyoshi Manda (now at Mie University)
+  
+  Research Theme includes:
+  
+  * Seasonal variation of the Subpoloar Front in the Sea of Japan and its mechanisms
+  """
+  
+ [[experience]]
+  title = "Graduate Research Assistant"
+  company = "Shanghai Ocean University"
+  company_url = "https://www.shou.edu.cn/"
+  location = "Shanghai, China"
+  date_start = "2010-09-01"
+  date_end = "2013-07-01"
+  description = """
+  Advisor: Prof. Zhen Han
+  
+  Research Theme includes:
+  
+  * Reconstruction of three-dimensional sea water temperature structures in the Northwestern Pacific using Argo and satellite-based datasets
+  """
+  
+   [[experience]]
+  title = "Researcher"
+  company = "Dynamic Coupling of Ocean-Atmosphere-Land Research Program, Japan Agency for Marine-Earth Science and Technology"
+  company_url = "https://www.shou.edu.cn/"
+  location = "Shanghai, China"
+  date_start = "2009-09-01"
+  date_end = "2010-07-01"
+  description = """
+  Supervisor: Prof. Zhen Han
+  
+  Research Theme includes:
+  
+  * Bio-energy flow of the ecosystems in the East China Sea based on the ’Ecopath’ Model
 
 +++
