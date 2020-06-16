@@ -12,7 +12,7 @@ subtitle = "Full list is available in my CV."
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
-  page_type = "publication" # "talk"
+  page_type = "talk"
   
   # Choose how much pages you would like to display (0 = all pages)
   count = 3
@@ -54,8 +54,8 @@ subtitle = "Full list is available in my CV."
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 2
-  columns = "2"
+  view = 1
+  columns = "1"
 [design.background]
   # Apply a background color, gradient, or image.
   #   Uncomment (by removing `#`) an option to apply it.
