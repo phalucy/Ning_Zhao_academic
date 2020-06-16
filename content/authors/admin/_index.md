@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Research
+role: Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Japan Agency for Marine-Earth Science and Technology
+- name: DCOP, RIGC, Japan Agency for Marine-Earth Science and Technology
   url: "https://www.jamstec.go.jp/dcop/e/"
 
 # Short bio (displayed in user profile at end of posts)
