@@ -48,7 +48,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: ""
+slides = ""
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -62,9 +62,9 @@ projects:
 math: true
 ---
 
-{{% alert note %}}
+#{{% alert note %}}
 #Click on the **Slides** button above to view the built-in slides feature.
-{{% /alert %}}
+#{{% /alert %}}
 
 #Slides can be added in a few ways:
 
