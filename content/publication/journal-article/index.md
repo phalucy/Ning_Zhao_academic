@@ -3,9 +3,6 @@ title: "How does the air-sea coupling frequency affect convection during the MJO
 authors:
 - Ning Zhao
 - Nasuno Tomoe
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
 date: "2020-03-16T00:00:00Z"
 doi: " https://doi.org/10.1029/2020MS002058"
 
