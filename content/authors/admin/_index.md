@@ -44,9 +44,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:zhaoning@jamstec.go.jp  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: 
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Ning_Zhao18
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=sPSQP3QAAAAJ&hl
