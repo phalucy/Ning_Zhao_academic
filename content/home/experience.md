@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Experience"
+title = "Research Experience"
 subtitle = ""
 
 # Date format for experience
@@ -18,22 +18,23 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Researcher"
+  company = "Dynamic Coupling of Ocean-Atmosphere-Land Research Program, Japan Agency for Marine-Earth Science and Technology"
+  company_url = "https://www.jamstec.go.jp/dcop"
+  location = "Yokosuka, Kanagawa, Japan"
+  date_start = "2019-04-01"
   date_end = ""
   description = """
-  Responsibilities include:
+  Group Leader: Dr. Kunio Yoneyama
+  Research Theme includes:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Air-sea interactions in Tropical regions
+  * Diurnal Cycle
+  * Madden-Julian Oscillation
   """
 
 [[experience]]
-  title = "Professor"
+  title = "Post-doctoral Fellow"
   company = "University X"
   company_url = ""
   location = "California"
