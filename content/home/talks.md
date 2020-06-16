@@ -12,7 +12,7 @@ subtitle = "Full list is available in my CV."
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
-  page_type = "post" # "talk"
+  page_type = "publication" # "talk"
   
   # Choose how much pages you would like to display (0 = all pages)
   count = 3
