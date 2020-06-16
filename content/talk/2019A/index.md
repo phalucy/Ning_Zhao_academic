@@ -21,7 +21,7 @@ date: "2019-03"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2020-06-16T00:00:00Z"
+publishDate: "2019-03"
 
 authors: [Ning Zhao, Tiran Liu, Naoki Hirose]
 tags: [oral]

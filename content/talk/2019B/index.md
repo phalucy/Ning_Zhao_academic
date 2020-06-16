@@ -21,9 +21,9 @@ date: "2019-10"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2020-06-16T00:00:00Z"
+publishDate: "2019-10"
 
-authors: [Ning Zhao, Tiran Liu, Naoki Hirose]
+authors: [Ning Zhao, Nasuno Tomoe]
 tags: [poster]
 
 # Is this a featured talk? (true/false)

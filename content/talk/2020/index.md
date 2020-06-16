@@ -16,12 +16,12 @@ abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2020-02-16"
-date_end: "2020-02-21"
+date: "2020-02-18"
+#date_end: "2020-02-21"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2020-06-16T00:00:00Z"
+publishDate: "2020-02-16"
 
 authors: [Ning Zhao, Nasuno Tomoe]
 tags: [poster]

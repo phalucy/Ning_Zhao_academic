@@ -21,7 +21,7 @@ date: "2018-02"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2020-06-16T00:00:00Z"
+publishDate: "2018-02"
 
 authors: [Ning Zhao, Shinsuke Iwasaki, Atsuhiko Isobe, and Masaru Yamamoto]
 tags: [oral]
