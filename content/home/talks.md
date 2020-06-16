@@ -24,15 +24,30 @@ subtitle = ""
   order = "desc"
 
   # Filter posts by a taxonomy term.
-  [content.filters]
-    tag = ""
-    category = ""
-    publication_type = ""
-    author = ""
-    exclude_featured = false
-    exclude_past = false
-    exclude_future = false
-    
+#  [content.filters]
+#    tag = ""
+#    category = ""
+#    publication_type = ""
+#    author = ""
+#    exclude_featured = false
+#    exclude_past = false
+#    exclude_future = false
+   
+   filter_default = 0
+  
+   [[content.filter_button]]
+     name = "All"
+     tag = "*"
+  
+   [[content.filter_button]]
+     name = "Poster"
+     tag = "poster"
+  
+   [[content.filter_button]]
+     name = "Oral"
+     tag = "oral"
+
+   
 [design]
   # Toggle between the various page layout types.
   #   1 = List
