@@ -21,7 +21,7 @@ date: "2017-05"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2017-05"
+publishDate: "2017-05-20"
 
 authors: [Ning Zhao, Shinsuke Iwasaki, Atsuhiko Isobe]
 tags: [poster]

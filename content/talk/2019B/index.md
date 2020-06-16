@@ -21,7 +21,7 @@ date: "2019-10"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2019-10"
+publishDate: "2019-10-28"
 
 authors: [Ning Zhao, Nasuno Tomoe]
 tags: [poster]

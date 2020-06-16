@@ -21,7 +21,7 @@ date: "2017-09"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2017-09"
+publishDate: "2017-09-02"
 
 authors: [Ning Zhao]
 tags: [oral]

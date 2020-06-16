@@ -21,7 +21,7 @@ date: "2017-04"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2017-04"
+publishDate: "2017-04-11"
 
 authors: [Ning Zhao, Shinsuke Iwasaki, Atsuhiko Isobe]
 tags: [oral]
