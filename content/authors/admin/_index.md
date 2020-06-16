@@ -14,7 +14,7 @@ role: Research
 
 # Organizations/Affiliations
 organizations:
-- name:Dynamic Coupling of Ocean-Atmosphere-Land Research Program (DCOP), Research Institute for Global Change (RIGC),  Japan Agency for Marine-Earth Science and Technology (JAMSTEC)
+- name: Dynamic Coupling of Ocean-Atmosphere-Land Research Program (DCOP), Research Institute for Global Change (RIGC),  Japan Agency for Marine-Earth Science and Technology (JAMSTEC)
   url: "https://www.jamstec.go.jp/dcop/e/"
 
 # Short bio (displayed in user profile at end of posts)
