@@ -95,8 +95,8 @@ date_format = "Jan 2006"
   """
   
    [[experience]]
-  title = "Researcher"
-  company = "Dynamic Coupling of Ocean-Atmosphere-Land Research Program, Japan Agency for Marine-Earth Science and Technology"
+  title = "Undergraduate Research Assistant"
+  company = "Shanghai Ocean University"
   company_url = "https://www.shou.edu.cn/"
   location = "Shanghai, China"
   date_start = "2009-09-01"
