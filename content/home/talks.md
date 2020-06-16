@@ -12,7 +12,7 @@ subtitle = ""
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
-  page_type = "project" # "talk"
+  page_type = "talk" # "talk"
   
   # Choose how much pages you would like to display (0 = all pages)
   count = 5
@@ -24,28 +24,15 @@ subtitle = ""
   order = "desc"
 
   # Filter posts by a taxonomy term.
-#  [content.filters]
-#    tag = ""
-#    category = ""
-#    publication_type = ""
-#    author = ""
-#    exclude_featured = false
-#    exclude_past = false
-#    exclude_future = false
+  [content.filters]
+    tag = ""
+    category = ""
+    publication_type = ""
+    author = ""
+    exclude_featured = false
+    exclude_past = false
+    exclude_future = false
    
-   filter_default = 0
-  
-   [[content.filter_button]]
-     name = "All"
-     tag = "*"
-  
-   [[content.filter_button]]
-     name = "Poster"
-     tag = "poster"
-  
-   [[content.filter_button]]
-     name = "Oral"
-     tag = "oral"
 
    
 [design]
